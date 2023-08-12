@@ -1,0 +1,18 @@
+.product {
+  max-height: 30%;
+  max-width: 30%;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+@media screen and (max-width: 768px) {
+    .product-list {
+      width: 50%;
+    }
+  }
+
+  .product img{
+    max-height: 30%;
+    max-width: 30%;
+
+  }

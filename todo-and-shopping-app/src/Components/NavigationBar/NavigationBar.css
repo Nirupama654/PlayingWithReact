@@ -1,0 +1,14 @@
+
+
+.navbar{
+    border: 1px solid;
+    padding: 2rem 4rem;
+    background-color: #002D62;
+    color: white;
+    font-size: 2rem;
+}
+
+.navHeader{
+    color: white;
+    text-decoration: none;
+}
